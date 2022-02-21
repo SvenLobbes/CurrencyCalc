@@ -1,6 +1,5 @@
 # CurrencyCalc
 
-This is my first iOS App. 
 It shows currency rates and converts rates 
 
 ![alt text](https://github.com/SvenLobbes/CurrencyCalc/blob/main/readmeContent/Calculator.png?raw=true)
