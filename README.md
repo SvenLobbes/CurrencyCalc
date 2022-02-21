@@ -6,7 +6,4 @@ It shows currency rates and converts rates
 
 My other files are following soon
 
-
-
-credits: 
-https://youtu.be/N1_S2Zvzh4o
+//WORK IN PROGRESS
